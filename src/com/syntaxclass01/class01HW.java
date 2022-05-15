@@ -7,5 +7,11 @@ public class class01HW {
         for (int i = 1; i <= n; i++) {
             System.out.println(i + " ");
         }
+        int n1 = 50;
+        System.out.println("Numbers from 1 to "+n1+" are: ");
+        for (int i = 1; i <= n1; i++) {
+            System.out.println(i + " ");
+        }
+
     }
 }
